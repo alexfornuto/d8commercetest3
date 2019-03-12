@@ -1,0 +1,14 @@
+uuid: a771e462-b825-49ae-b44c-bb747faa9e14
+name: d8commercetest3
+mail: alex.fornuto@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
